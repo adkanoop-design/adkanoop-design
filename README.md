@@ -1,19 +1,33 @@
 # Anoop Krishnan
 
-### Enterprise Data Leader · Legal Entity & Reference Data · Data Governance & Risk · Post-Trade Modernization · Applied AI and Machine Learning
+### Capital Markets & Custody · Legal Entity & Reference Data · Data Governance & Risk · Business Analytics · Program Management · Applied AI and Machine Learning
 
 Twenty years of professional experience (2005–2025), including thirteen years at **Northern Trust Corporation**
-in the financial services industry, most recently as **Vice President — Program Management, Business Analysis &
-Data Governance, AI & ML, Asset Servicing Business Technology**.
+in the financial services industry as **Vice President — Program Management, Business Analysis & Data
+Governance, AI & ML, Asset Servicing Business Technology**.
 
 I originate data platforms rather than inherit them. I have built the legal entity identity layer beneath a global
 custodian's transaction processing, governed critical data domains through a $2B book-of-record migration, defined
 the machine learning that took settlement straight-through processing from 70% to 99%, and carried risk and issue
 management across more than 350 regulatory and compliance programs in a regulated environment.
 
-**Currently seeking:** Senior Vice President, Director and Head-of roles in data governance, legal entity and
-reference data, AI governance and data readiness, enterprise transformation and PMO leadership. Vice President
-roles are equally in scope. Based in Dallas–Fort Worth.
+---
+
+## Currently seeking · available to start immediately
+
+**Senior Vice President · Director · Head-of.** Vice President roles are equally in scope.
+
+Four areas, one thread running through all of them: making enterprise data trustworthy enough to run a
+business on.
+
+| Area | Scope |
+|---|---|
+| **Data governance & reference data** | Legal entity · custody accounting · assets · products · transaction reference data of every class · golden source, enterprise data management and master data management |
+| **AI governance & data readiness** | Governance over models and the data beneath them in regulated environments · artificial intelligence and machine learning business applications |
+| **Enterprise transformation & PMO** | Portfolio governance · capital funding at executive steering committee · multi-year platform and data modernization |
+| **Operations & technology leadership** | Custody accounting and operations · global trade and settlement · business technology delivery across ten functions and three regions |
+
+Based in McKinney, Texas (Dallas–Fort Worth).
 
 ---
 
@@ -32,6 +46,9 @@ That knowledge is what made the GSI problem definable — and took straight-thro
 
 ## What I do
 
+- **Financial services domain** — capital markets, custody accounting and operations, global trade and
+  settlement, asset servicing, fund administration, transfer agency, clearing and settlement,
+  reconciliation, corporate actions, tax lot accounting, standing settlement instructions
 - **Legal entity & reference data** — legal entity identification and hierarchy, LEI and GLEIF, parent-to-subsidiary
   resolution, counterparty and party data domains, entity master data management, golden source and single
   authoritative source of truth, instrument and trading-venue reference data, vendor feed validation
@@ -196,7 +213,9 @@ authentication was proven were all control questions.
 
 ---
 
-## Product & asset-class coverage
+## Domain, product & asset-class coverage
+
+**Capital markets · custody accounting and operations · global trade and settlement · financial services industry**
 
 Custody · asset servicing · fund administration · transfer agency · trade processing, clearing and settlement ·
 standing settlement instructions · reconciliation · cash management · benefit payments · payments · securities
