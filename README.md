@@ -79,8 +79,7 @@ Derivatives, Client Change Management, US Delivery, Market Operations, and Legal
 Audit as program stakeholder. Delivery spanned North America, EMEA and APAC, with teams in Chicago, Limerick,
 Bangalore, Singapore and Tempe, and an onsite client implementation in Melbourne.
 
-**350+ programs** — enterprise-wide, multi-year initiatives with populations of up to 300–500
-staff, spanning core platform modernization, settlement, reference data, client reporting and regulatory change.
+**350+ programs** — enterprise-wide, multi-year initiatives spanning core platform modernization, settlement, reference data, client reporting and regulatory change.
 Delivered a **30% operational efficiency improvement** through data governance optimization, reference data controls
 and settlement framework enhancements, measured as reduction in manual intervention.
 
