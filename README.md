@@ -127,9 +127,9 @@ Resolved instrument and trading-venue identity where clients submitted their own
 feeds from **Bloomberg, PolarLake, Reuters, IDC and Markit EDM** against golden-source products rather than treating
 vendor data as authoritative. Venue ambiguity flows directly into valuation, settlement routing and client reporting.
 
-**Transaction Hub — $200M cloud modernization** · Requirements Workstream Lead
-Led the requirements workstream on the 30-person core team within a program of 300–500 staff, defining end-to-end
-transaction processing across five inbound channels into a single canonical message standard on cloud microservices.
+**Transaction Hub — $200M cloud modernization** · Requirements, Data Design & Release Delivery Lead
+Led requirements, data design and release delivery for end-to-end transaction processing across five inbound
+channels into a single canonical message standard on Cloud Foundry microservices.
 Authored the **canonical message specifications and data contracts** — SWIFT MT/MX and ISO 20022 payload structures,
 field-level mappings, validation rules and enrichment logic across trade, account, party, product and broker —
 consuming governed master data through **Enterprise MDM and Product Entity Management**. Achieved **100%
