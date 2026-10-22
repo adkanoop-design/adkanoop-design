@@ -1,10 +1,12 @@
 # Anoop Krishnan
 
-### Capital Markets & Custody · Legal Entity & Reference Data · Data Governance & Risk · Business Analytics · Program Management · Applied AI and Machine Learning
+### Business & Data Analytics Leadership · Information Strategy, Governance & Insights Delivery · Data Governance & Reference Data · Platform Modernization · Applied AI/ML
 
-Twenty years of professional experience (2005–2025), including thirteen years at **Northern Trust Corporation**
-in the financial services industry as **Vice President — Program Management, Business Analysis & Data
-Governance, AI & ML, Asset Servicing Business Technology**.
+16 years of professional experience in financial services, including 13 years at **Northern Trust Corporation**
+as **Vice President - Business Analysis & Data Analytics, Asset Servicing Business Technology**.
+
+**$20M in new revenue** · **$20M in cost avoided** · **settlement STP from 70% to 99%** · **$2B FundMaster and $200M
+Transaction Hub modernizations** · **350+ regulatory, compliance and business-critical programs**
 
 I originate data platforms rather than inherit them. I have built the legal entity identity layer beneath a global
 custodian's transaction processing, governed critical data domains through a $2B book-of-record migration, defined
@@ -15,7 +17,8 @@ management across more than 350 regulatory and compliance programs in a regulate
 
 ## Currently seeking · available to start immediately
 
-**Senior Vice President · Director · Head-of.** Vice President roles are equally in scope.
+**Director · Head of Data · Vice President** - business and data analytics, data governance and data management.
+Open to Dallas–Fort Worth (including Plano), San Antonio, or remote.
 
 Four areas, one thread running through all of them: making enterprise data trustworthy enough to run a
 business on.
@@ -76,7 +79,7 @@ Derivatives, Client Change Management, US Delivery, Market Operations, and Legal
 Audit as program stakeholder. Delivery spanned North America, EMEA and APAC, with teams in Chicago, Limerick,
 Bangalore, Singapore and Tempe, and an onsite client implementation in Melbourne.
 
-**350+ programs over eleven years** — enterprise-wide, multi-year initiatives with populations of up to 300–500
+**350+ programs** — enterprise-wide, multi-year initiatives with populations of up to 300–500
 staff, spanning core platform modernization, settlement, reference data, client reporting and regulatory change.
 Delivered a **30% operational efficiency improvement** through data governance optimization, reference data controls
 and settlement framework enhancements, measured as reduction in manual intervention.
@@ -236,13 +239,14 @@ Projects from the **UT Austin McCombs Post-Graduate Program in AI & Machine Lear
 
 | Project | Technique | Headline result |
 |---|---|---|
+| [**Medical Assistant**](https://github.com/adkanoop-design/aiml-portfolio/tree/main/05-medical-assistant-rag) — clinical knowledge assistant | Generative AI: RAG with Mistral-7B, LangChain, ChromaDB | 5/5 groundedness and relevance, every answer cited to source pages |
 | [**ReneWind**](https://github.com/adkanoop-design/aiml-portfolio/tree/main/04-renewind-neural-networks) — predictive maintenance | Neural networks (TensorFlow/Keras) | Recall 0.879, precision 0.902; modeled cost cut 61.1% |
 | [**EasyVisa**](https://github.com/adkanoop-design/aiml-portfolio/tree/main/03-easyvisa-ensemble) — visa approval prediction | Ensemble methods, XGBoost | Test F1 0.820; train/val/test within 0.003 |
 | [**AllLife Bank**](https://github.com/adkanoop-design/aiml-portfolio/tree/main/01-personal-loan-campaign) — loan conversion | Decision trees, cost-complexity pruning | Recall 90.3%, precision 92.9% |
 | [**FoodHub**](https://github.com/adkanoop-design/aiml-portfolio/tree/main/02-foodhub-analytics) — delivery analytics | Exploratory data analysis | 29% of orders drive 60% of revenue |
 
 **Technique coverage:** exploratory data analysis · decision trees and pruning · ensemble methods and hyperparameter
-tuning · neural networks and cost-sensitive model selection.
+tuning · neural networks and cost-sensitive model selection · retrieval-augmented generation and LLM evaluation.
 
 **Beyond the published portfolio** — hands-on work across a wider stack: retrieval-augmented generation pipelines
 built end to end in **LangChain** with OpenAI embeddings and vector-store retrieval, evaluated with **RAGAS** on
@@ -258,16 +262,16 @@ T-tests, outlier detection, K-fold cross-validation.
 
 ## Currently
 
-- **UT Austin McCombs** — Post-Graduate Program in AI & Machine Learning (2025–2026)
+- **UT Austin McCombs** — Post-Graduate Program in AI & Machine Learning (Sep 2025 – Dec 2026)
 - **Data Engineering Academy** — Data Engineering Professional (2026–2027)
 
 ## Education & certifications
 
-- **Post-Graduate Program, Artificial Intelligence & Machine Learning in Business** — University of Texas at Austin, McCombs School of Business, 2025–2026
+- **Post-Graduate Program, Artificial Intelligence & Machine Learning in Business** — University of Texas at Austin, McCombs School of Business, Sep 2025 – Dec 2026
 - **Data Engineering Professional** — Data Engineering Academy, 2026–2027
 - **Computer Information Systems Management & Project Management** — MITS, Gurnee, IL, 2012
 - **Master of Divinity** — Union Biblical Seminary, Pune, India, 2008 · **Bachelor of Theology** — Mission India Theological Seminary, 2005
-- **Lean Six Sigma Yellow Belt** (ASQ, 2012) · **PMP** training completed, certification candidate · **PMI-ACP** and **IIBA** business analysis training · PMI member since 2011
+- **Lean Six Sigma Yellow Belt** (ASQ, 2012) · **PMP** candidate, exam November 2026 · **PMI-ACP** and **IIBA** business analysis training · PMI member since 2011
 
 ## Recognition
 
