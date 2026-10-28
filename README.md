@@ -2,7 +2,7 @@
 
 ### Business & Data Analytics Leadership · Information Strategy, Governance & Insights Delivery · Data Governance & Reference Data · Platform Modernization · Applied AI/ML
 
-16 years of professional experience in financial services, including 13 years at **Northern Trust Corporation**
+16+ years of total professional experience, including 11 years at **Northern Trust Corporation**
 as **Vice President - Business Analysis & Data Analytics, Asset Servicing Business Technology**.
 
 **$20M in new revenue** · **$20M in cost avoided** · **settlement STP from 70% to 99%** · **$2B FundMaster and $200M
